@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "FN5jBQAmkeh8DszQr+seDhrMpp+mZc0kYwOZJC0XNPg=",
+  "Source": "RegistrationApp",
+  "BasePath": "_content/RegistrationApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RegistrationApp\\wwwroot",
+      "Source": "RegistrationApp",
+      "ContentRoot": "C:\\Users\\Vediciy\\source\\repos\\RegistrationApp\\RegistrationApp\\wwwroot\\",
+      "BasePath": "_content/RegistrationApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Vediciy\\source\\repos\\RegistrationApp\\RegistrationApp\\wwwroot\\css\\styles.css",
+      "SourceId": "RegistrationApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vediciy\\source\\repos\\RegistrationApp\\RegistrationApp\\wwwroot\\",
+      "BasePath": "_content/RegistrationApp",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Vediciy\\source\\repos\\RegistrationApp\\RegistrationApp\\wwwroot\\index.html",
+      "SourceId": "RegistrationApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vediciy\\source\\repos\\RegistrationApp\\RegistrationApp\\wwwroot\\",
+      "BasePath": "_content/RegistrationApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Vediciy\\source\\repos\\RegistrationApp\\RegistrationApp\\wwwroot\\js\\site.js",
+      "SourceId": "RegistrationApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vediciy\\source\\repos\\RegistrationApp\\RegistrationApp\\wwwroot\\",
+      "BasePath": "_content/RegistrationApp",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}

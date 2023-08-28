@@ -1,0 +1,56 @@
+.main-div
+{
+  display: flex;
+  justify-content: center;
+}
+
+.form-control
+{
+  margin-bottom: 10px;
+  min-width: 300px;
+}
+
+.container 
+{
+  display: flex;
+}
+  
+.box 
+{
+  flex: 1; 
+  margin: 10px;
+  border-radius: 10px;
+  background-color:dodgerblue;
+  color: white;
+  border-width: 0ch;
+}
+
+.form-label
+{
+  color: black;
+  font-size: large;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.head
+{
+  width: 100%;
+  height: 30px;
+  background-color: grey;
+  background-color: #333;
+}
+
+.foot
+{
+  background-color: grey;
+  margin-top: auto;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
